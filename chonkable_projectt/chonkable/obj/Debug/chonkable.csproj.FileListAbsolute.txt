@@ -1,0 +1,6 @@
+C:\Users\Loki\source\repos\chonkable\chonkable\obj\Debug\chonkable.csproj.AssemblyReference.cache
+C:\Users\Loki\source\repos\chonkable\chonkable\obj\Debug\chonkable.csproj.CoreCompileInputs.cache
+C:\Users\Loki\source\repos\chonkable\chonkable\bin\Debug\chonkable.dll
+C:\Users\Loki\source\repos\chonkable\chonkable\bin\Debug\chonkable.pdb
+C:\Users\Loki\source\repos\chonkable\chonkable\obj\Debug\chonkable.dll
+C:\Users\Loki\source\repos\chonkable\chonkable\obj\Debug\chonkable.pdb
